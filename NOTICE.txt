@@ -1,0 +1,5 @@
+This scanner includes jsQR version 1.4.0.
+Source: https://github.com/cozmo/jsQR
+Package: https://www.npmjs.com/package/jsqr/v/1.4.0
+Distributed under the Apache License 2.0; see jsQR-LICENSE.txt.
+The bundled decoder is unmodified.
